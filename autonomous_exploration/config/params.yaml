@@ -1,0 +1,5 @@
+lookahead_distance : 0.25 # Pure Pursuit에서 목표 지점을 찾는 거리 (meters) 0.24
+speed : 0.15 # 로봇의 기본 이동 속도 (m/s) 0.18
+expansion_size : 3 # 지도의 장애물 확장 크기 (cells). 3
+target_error : 0.15 # 목표 지점 도달 허용 오차 (meters) 0.15
+robot_r : 0.2 # 로봇의 반경 (meters).  0.2
